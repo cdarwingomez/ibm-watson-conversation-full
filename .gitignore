@@ -1,0 +1,7 @@
+node_modules/
+temp/
+.idea/
+coverage
+.env
+npm-debug.log
+.idea/
