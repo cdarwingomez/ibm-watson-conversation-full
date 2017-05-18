@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: chatbot-icontabi-test
-  host: chatbot-icontabi-test
+  name: chatbot-icontabi
+  host: chatbot-icontabi
   disk_quota: 1024M

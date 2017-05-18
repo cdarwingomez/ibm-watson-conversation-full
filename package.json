@@ -3,15 +3,7 @@
   "version": "0.1.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "npm run lint && npm run test-unit",
-    "test-unit": "istanbul cover ./node_modules/mocha/bin/_mocha test",
-    "lint": "eslint .",
-    "autofix": "eslint --fix .",
-    "codecov": "npm run test && (codecov || true)",
-    "postinstall": "npm run build",
-    "build": "gulp build-html",
-    "watch": "gulp server:watch"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
